@@ -1,0 +1,14 @@
+layout_spectrum: 0.2937929800245911
+typography_spectrum: 0.15692594251595438
+color:
+  brandStrength: 0.37344050081446767
+  lightness: 0.9562369210179895
+  saturation: 0.7950269584544003
+  rhythmicContrast: 0.3551752553321421
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Experiment in AI
