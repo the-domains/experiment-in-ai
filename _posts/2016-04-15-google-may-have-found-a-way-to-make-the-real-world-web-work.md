@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-25T11:23:26.741Z'
+datePublished: '2016-07-25T12:09:34.783Z'
 sourcePath: >-
   _posts/2016-04-15-google-may-have-found-a-way-to-make-the-real-world-web-work.md
 inFeed: true
@@ -21,7 +21,8 @@ author:
   - name: Brian Barrett
     url: 'http://www.wired.com/author/brianrbarrett/'
     avatar: {}
-dateModified: '2016-07-25T11:23:24.675Z'
+via: {}
+dateModified: '2016-07-25T12:09:34.360Z'
 title: Google May Have Found a Way to Make the Real-World Web Work
 app_links: []
 publisher:
@@ -37,10 +38,9 @@ description: >-
   of their major issues.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Google May Have Found a Way to Make the Real-World Web Work</h1><p>Remember beacons? Honestly, there's not much reason you would. Hailed for years by Apple, Google, and beyond as one of the next big things in tech-for marketers, at least-the glorious beacon future has yet to arrive in the present. They may get a little closer, however, now that Google has solved one of their major issues.</p><img src="http://www.wired.com/wp-content/uploads/2016/04/GettyImages-505252351-f-1200x630.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60f00415e118224ecabc9f288eafe337a9d94455.jpg" /><h1>Google May Have Found a Way to Make the Real-World Web Work</h1><p>Remember beacons? Honestly, there's not much reason you would. Hailed for years by Apple, Google, and beyond as one of the next big things in tech-for marketers, at least-the glorious beacon future has yet to arrive in the present. They may get a little closer, however, now that Google has solved one of their major issues.</p></article>
