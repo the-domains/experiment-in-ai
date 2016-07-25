@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Experiment in AI]]></title>
-        <description><![CDATA[Experiment in AI]]></description>
+        <title><![CDATA[See if this works?]]></title>
+        <description><![CDATA[See if this works?]]></description>
         <link>https://thegrid.ai/experiment-in-ai/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 11:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 12:09:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/experiment-in-ai/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[NORWAY - A Time-Lapse Adventure]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Mon, 25 Jul 2016 11:23:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Disney space station? It no longer seems like such a goofy idea]]></title>
-            <description><![CDATA[<article><h1>A Disney space station? It no longer seems like such a goofy idea</h1><p>Throughout our planet's space-faring history, there have been two major impediments to putting a lot of private citizens into orbit. Only governments have had spacecraft, and there have been only a few, government-controlled, space stations to visit. But now that may finally changing in a big way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d83d67a7d53a5e25e15266ea03dab94cba53ee33.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/04/a-disney-space-station-it-no-longer-seems-like-such-a-goofy-idea/</link>
-            <guid isPermaLink="false">3a5d655a-5b66-480e-abd3-873e1130d98e</guid>
-            <pubDate>Mon, 25 Jul 2016 11:23:26 GMT</pubDate>
+            <title><![CDATA[Google May Have Found a Way to Make the Real-World Web Work]]></title>
+            <description><![CDATA[<article><h1>Google May Have Found a Way to Make the Real-World Web Work</h1><p>Remember beacons? Honestly, there's not much reason you would. Hailed for years by Apple, Google, and beyond as one of the next big things in tech-for marketers, at least-the glorious beacon future has yet to arrive in the present. They may get a little closer, however, now that Google has solved one of their major issues.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60f00415e118224ecabc9f288eafe337a9d94455.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/04/google-beacon-security-eddystone/</link>
+            <guid isPermaLink="false">9f2bd639-4ef5-4198-85d0-f4aab5d40cb7</guid>
+            <pubDate>Mon, 25 Jul 2016 12:09:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The First-Ever 360-Degree Video Surgery Is Happening On Thursday]]></title>
@@ -35,6 +35,13 @@
             <pubDate>Mon, 25 Jul 2016 11:23:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A Disney space station? It no longer seems like such a goofy idea]]></title>
+            <description><![CDATA[<article><h1>A Disney space station? It no longer seems like such a goofy idea</h1><p>Throughout our planet's space-faring history, there have been two major impediments to putting a lot of private citizens into orbit. Only governments have had spacecraft, and there have been only a few, government-controlled, space stations to visit. But now that may finally changing in a big way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d83d67a7d53a5e25e15266ea03dab94cba53ee33.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2016/04/a-disney-space-station-it-no-longer-seems-like-such-a-goofy-idea/</link>
+            <guid isPermaLink="false">3a5d655a-5b66-480e-abd3-873e1130d98e</guid>
+            <pubDate>Mon, 25 Jul 2016 11:23:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Space odyssey: photographer Thomas Ruff heads to the moon with new work.]]></title>
             <description><![CDATA[<article><h1>Space odyssey: photographer Thomas Ruff heads to the moon with new work.</h1><p>The Düsseldorf photographer Thomas Ruff is having his day in the sun, with the Art Gallery of Ontario's 'Object Relations', a major solo show, opening this month. Closer to home, Chelsea's David Zwirner Gallery is celebrating Ruff's latest series of work.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c8a09fa223ef7576c2280cc4791191f7651bcb1.jpg"></article>]]></description>
             <link>http://www.wallpaper.com/art/thomas-ruff-heads-to-the-moon-with-new-work-at-david-zwirner</link>
@@ -42,17 +49,17 @@
             <pubDate>Mon, 25 Jul 2016 11:23:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Urban Symmetry]]></title>
-            <description><![CDATA[<article><h1>Urban Symmetry</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff2f22c8b4189c4c1a608f3b00a7e49071e73c0c.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=Xziiv3sodcY</link>
-            <guid isPermaLink="false">3526cf3f-12d5-47e3-9cf9-1ae55e616776</guid>
-            <pubDate>Mon, 25 Jul 2016 11:23:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Light painting with pixelstick]]></title>
             <description><![CDATA[<article><h1>Light painting with pixelstick</h1><p>More info at thepixelstick.com! We spent the last year building pixelstick, a light painting tool capable of everything from photo-real renders to amazing abstract ribbons. We've improved with every iteration and are excited to finally show off what it can do. Everything was shot by just two slightly sleep deprived guys and one Pixelstick in Brooklyn.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f83450408b8ae969aa617e22dc894484/noop.jpg?input=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F481060213_1280x720.jpg"></article>]]></description>
             <link>https://vimeo.com/78163959</link>
             <guid isPermaLink="false">aa8505ec-1c4a-4874-81d2-52842e2c90ad</guid>
+            <pubDate>Mon, 25 Jul 2016 11:23:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Urban Symmetry]]></title>
+            <description><![CDATA[<article><h1>Urban Symmetry</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff2f22c8b4189c4c1a608f3b00a7e49071e73c0c.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Xziiv3sodcY</link>
+            <guid isPermaLink="false">3526cf3f-12d5-47e3-9cf9-1ae55e616776</guid>
             <pubDate>Mon, 25 Jul 2016 11:23:26 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Town & country: refined runarounds for urban trysts and rural rendezvous.</h1><p>Wallpaper* Lifestyle: Town & country: refined runarounds for urban trysts and rural rendezvous</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67616b57e52f304982348fff1148d21129e829dc.jpg"></article>]]></description>
             <link>http://www.wallpaper.com/gallery/lifestyle/town-country-refined-runarounds-for-urban-trysts-and-cool-cruisers-for-rural-rendezvous</link>
             <guid isPermaLink="false">a11dc03b-f5be-4082-a059-2167e7c2d58c</guid>
-            <pubDate>Mon, 25 Jul 2016 11:23:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Coolest Tech at SXSW Interactive This Year]]></title>
-            <description><![CDATA[<article><h1>The Coolest Tech at SXSW Interactive This Year</h1><p>Everything from lifelike humanoids to VR-recording apps at SXSW Interactive 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/914b8f2c193ba23977d43dd2927ac45c36498fd3.jpg"></article>]]></description>
-            <link>https://www.thrillist.com/tech/nation/the-coolest-tech-at-sxsw-interactive-2016/tech</link>
-            <guid isPermaLink="false">c58b0ae8-8ce8-437c-9e3e-d146aa1c136c</guid>
             <pubDate>Mon, 25 Jul 2016 11:23:26 GMT</pubDate>
         </item>
     </channel>
