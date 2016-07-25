@@ -4,7 +4,7 @@
         <description><![CDATA[See if this works?]]></description>
         <link>https://thegrid.ai/experiment-in-ai/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 12:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 12:49:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/experiment-in-ai/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[NORWAY - A Time-Lapse Adventure]]></title>
@@ -12,6 +12,13 @@
             <link>https://vimeo.com/107469289</link>
             <guid isPermaLink="false">2c5831b7-8aba-43a2-82c5-c3cb1ce46196</guid>
             <pubDate>Mon, 25 Jul 2016 11:23:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Encryption backdoors appear on EU data chief's ban wishlist]]></title>
+            <description><![CDATA[<article><h1>Encryption backdoors appear on EU data chief's ban wishlist</h1><p>BRUSSELS-Revised ePrivacy laws should guarantee confidentiality of communications and encourage encryption, the European Union's data watchdog has said. European Data Protection Supervisor (EDPS) Giovanni Buttarelli published his official opinion on the review of the ePrivacy Directive on Monday.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/adea9b038ad0aa9a38db5a2ee12c1ac1/noop.jpg?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2Fsites%2F3%2F2016%2F07%2F960-640x360.jpg"></article>]]></description>
+            <link>http://arstechnica.co.uk/tech-policy/2016/07/encryption-backdoors-edps-ban-wishlist/</link>
+            <guid isPermaLink="false">f79b97fd-da6c-475b-9be9-346c8c2ae64d</guid>
+            <pubDate>Mon, 25 Jul 2016 12:49:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Google May Have Found a Way to Make the Real-World Web Work]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Inside the Stunning Mansion in Ex Machina</h1><p>There are many stunning, otherworldly sights in Ex Machina, the science-fiction film directed by Alex Garland that features a robot so lifelike she's played by actress Alicia Vikander. But the most breathtaking sight of all may be the 100 percent real, available-for-a-night's-stay location where the film is set: the Juvet Landscape Hotel in Norway.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/681669ff82d513a623869d49c9b8fe8ee3c88229.jpg"></article>]]></description>
             <link>http://www.vanityfair.com/hollywood/2015/04/ex-machina-location</link>
             <guid isPermaLink="false">3d1eedaa-ff8a-4c62-b507-ff7911751ce5</guid>
-            <pubDate>Mon, 25 Jul 2016 11:23:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Town & country: refined runarounds for urban trysts and rural rendezvous.]]></title>
-            <description><![CDATA[<article><h1>Town & country: refined runarounds for urban trysts and rural rendezvous.</h1><p>Wallpaper* Lifestyle: Town & country: refined runarounds for urban trysts and rural rendezvous</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67616b57e52f304982348fff1148d21129e829dc.jpg"></article>]]></description>
-            <link>http://www.wallpaper.com/gallery/lifestyle/town-country-refined-runarounds-for-urban-trysts-and-cool-cruisers-for-rural-rendezvous</link>
-            <guid isPermaLink="false">a11dc03b-f5be-4082-a059-2167e7c2d58c</guid>
             <pubDate>Mon, 25 Jul 2016 11:23:26 GMT</pubDate>
         </item>
     </channel>
